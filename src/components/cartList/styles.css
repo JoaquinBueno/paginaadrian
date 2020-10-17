@@ -1,0 +1,6 @@
+.cart-list-item:first-child {
+    margin-top: 50px;
+}
+.cart-list-item:last-child {
+    margin-bottom: 50px;
+}

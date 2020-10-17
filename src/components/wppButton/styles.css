@@ -1,0 +1,10 @@
+.wpp-button {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 35px;
+    right: 15px;
+}
